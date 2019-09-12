@@ -1,0 +1,17 @@
+commit 194ebc9521f3cc6d52ce4f3594ac4ca11cf760c9
+Author: mohnraa <tgmx1996@gmail.com>
+Date:   Thu Sep 12 12:20:16 2019 -0600
+
+    Encabezado principal en index
+
+commit f3dfc6363e911a159e4f1f22fbe74e3beb925e0e
+Author: mohnraa <tgmx1996@gmail.com>
+Date:   Thu Sep 12 12:08:17 2019 -0600
+
+    Primer commit
+
+commit 5bf1a6f37dd757917879f81b8d0eb93a9ebfde29
+Author: mohnraa <tgmx1996@gmail.com>
+Date:   Wed Sep 11 12:51:43 2019 -0600
+
+    Archivos iniciales
