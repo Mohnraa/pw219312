@@ -1,0 +1,7 @@
+HTML5 ->> HTML (2010)
+	CSS3
+	JS
+	Semanticas <<< Etiquetas
+Robots.txt sirve para evitar indexacion de paginas dentro de un sitio web
+
+Plug-in >>>> emmet
